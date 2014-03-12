@@ -11,6 +11,9 @@
     <form id="form1" runat="server">
     <div>
         <h1> Hola mundo </h1>
+        <p> 
+            <asp:Image ID="Image1" runat="server" />
+        </p>
     </div>
     </form>
 </body>
